@@ -1,4 +1,4 @@
-def (my_each(tas) do |la|
+def (my_each(tas)
   i=0
   while i<array.length
   yield (array[i])
